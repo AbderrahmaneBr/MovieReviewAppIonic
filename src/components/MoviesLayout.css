@@ -1,0 +1,4 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 4 equal columns */
+}
