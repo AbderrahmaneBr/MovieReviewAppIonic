@@ -27,7 +27,7 @@ A mobile-first movie browsing app built using [Ionic React](https://ionicframewo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ionic-movie-app.git
+git clone https://github.com/AbderrahmaneBr/MovieReviewAppIonic
 cd ionic-movie-app
 ```
 
