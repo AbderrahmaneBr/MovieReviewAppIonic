@@ -16,9 +16,9 @@ A mobile-first movie browsing app built using [Ionic React](https://ionicframewo
 
 | Popular Movies                       | Top Rated                             | Upcoming                              |
 | ------------------------------------ | ------------------------------------- | ------------------------------------- |
-| ![popular](./screenshots/view-1.png) | ![toprated](./screenshots/view-2.png) | ![upcoming](./screenshots/view-3.png) |
-
-> (You can add screenshots in a `/screenshots` folder)
+| ![popular](./screenshots/view-1.png) | 
+![toprated](./screenshots/view-2.png) | 
+![upcoming](./screenshots/view-3.png) |
 
 ---
 
